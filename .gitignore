@@ -1,0 +1,14 @@
+# Python 
+__pycache__/ 
+*.pyc 
+.venv/ 
+.conda/ 
+.env 
+
+# VSCode / OS 
+.vscode/ 
+.DS_Store 
+
+# App data 
+data/tracker.db .
+streamlit/secrets.toml

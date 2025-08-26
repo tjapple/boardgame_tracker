@@ -1,0 +1,7 @@
+streamlit>=1.37,<2
+sqlmodel>=0.0.21
+sqlalchemy>=2.0,<3
+pandas>=2.2,<3
+altair>=5.3,<6
+pydantic>=2.6,<3
+scipy>=1.11,<2
