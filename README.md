@@ -36,7 +36,7 @@ Python + Streamlit app to track board game stats (starting with \*\*Catan\*\*): 
 
 git clone https://github.com/tjapple/boardgame_tracker.git
 
-cd boardgame_hub
+cd boardgame_tracker
 
 
 
