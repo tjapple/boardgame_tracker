@@ -10,5 +10,5 @@ __pycache__/
 .DS_Store 
 
 # App data 
-data/tracker.db .
-streamlit/secrets.toml
+data/tracker.db
+.streamlit/secrets.toml
