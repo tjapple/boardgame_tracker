@@ -1,4 +1,4 @@
-\# Board Game Hub (Catan-first)
+# Board Game Hub (Catan-first)
 
 
 
@@ -34,9 +34,9 @@ Python + Streamlit app to track board game stats (starting with \*\*Catan\*\*): 
 
 \# Clone
 
-git clone https://github.com/tjapple/boardgame\_tracker.git
+git clone https://github.com/tjapple/boardgame_tracker.git
 
-cd boardgame\_hub
+cd boardgame_hub
 
 
 
